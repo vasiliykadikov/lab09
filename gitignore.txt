@@ -1,9 +1,0 @@
-> 
->
->
->*build*/
->*install*/
->*.swp
->.idea/
->EOF
-EOF
